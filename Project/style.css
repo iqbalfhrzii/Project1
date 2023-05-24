@@ -1,0 +1,130 @@
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #04aa6d;
+}
+
+.a1 > h1,
+.judul {
+  margin: 10px;
+  padding: 5px;
+}
+
+.a1 {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  padding: 5px;
+  background-color: #04aa6d;
+}
+
+.judul {
+  background: rgb(165, 252, 255);
+}
+
+aside {
+  color: #ffffff;
+  width: 20%;
+  height: 35%;
+  float: right;
+  background: #000000;
+  padding: 15px;
+  font-family: "Poppins", sans-serif;
+}
+
+a {
+  display: block;
+}
+
+.teks {
+  text-align: center;
+}
+
+.konten {
+  background-color: #04aa6d;
+}
+
+.idn {
+  text-align: center;
+  padding: 15px;
+  color: #ffffff;
+}
+
+.html {
+  float: left;
+  width: 50px;
+  height: 50px;
+}
+
+.whatsapp {
+  float: left;
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+}
+
+.instagram {
+  float: left;
+  width: 25px;
+  height: 25px;
+  padding: 5px;
+}
+
+.instagram1 {
+  width: 25px;
+  height: 25px;
+}
+
+.hal {
+  text-align: center;
+}
+
+.submit {
+  text-align: center;
+}
+
+.github {
+  width: 25px;
+  height: 25px;
+}
+
+.link {
+  float: left;
+}
+
+.tengah {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  width: 180px;
+}
+
+.copy {
+  text-align: center;
+  font-family: "Poppins", sans-serif;
+}
+
+.tiktok {
+  width: 25px;
+  height: 25px;
+}
